@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>519701610742-k8mgbulmnguave60trtpoon1i6brprld.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.519701610742-k8mgbulmnguave60trtpoon1i6brprld</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA-v6DnfdPZk9R3Gpsyc4f62ww2BwwX7ps</string>
+	<key>GCM_SENDER_ID</key>
+	<string>519701610742</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.GitSwifty.Tasks-SwiftUI</string>
+	<key>PROJECT_ID</key>
+	<string>tasks-swiftui</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tasks-swiftui.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:519701610742:ios:1c7bca1101f335ccedacd7</string>
+	<key>DATABASE_URL</key>
+	<string>https://tasks-swiftui.firebaseio.com</string>
+</dict>
+</plist>
